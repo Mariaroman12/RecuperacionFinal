@@ -1,0 +1,3 @@
+0000;0.0;NADA
+null;null;null
+null
